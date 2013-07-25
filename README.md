@@ -39,3 +39,11 @@ Contributing
 ============
 
 If you wish to contribute to the foundators.org libraries, you can do so by reporting bugs, expanding the wiki or creating a pull request.
+
+Guidelines
+----------
+
+* Don't paste author or licence information into any source files.
+* Use 4 spaces for indentation.
+* Put left curly braces on the same line as the statement it belongs to.
+* Use camelCase. Don't use underscores or screaming case in identifiers.
