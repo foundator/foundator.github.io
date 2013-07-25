@@ -47,3 +47,4 @@ Guidelines
 * Use 4 spaces for indentation.
 * Put left curly braces on the same line as the statement it belongs to.
 * Use camelCase. Don't use underscores or screaming case in identifiers.
+* Avoid abbreviations, except when they are proper nouns. In that case, capitalize as Json instead of JSON.
